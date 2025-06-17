@@ -2,7 +2,12 @@
 // import LandingScreen from '.././src/components/LandingScreen.jsx';
 // import LoginScreen from '.././src/components/LoginScreen';
 // import Profile from '.././src/components/Profile.jsx';
-// import SignUp from '.././src/components/SignUp';
+// import SignUp from '.././src/components/Signup';
+import LandingScreen from './components/LandingScreen';
+import LoginScreen from './components/LoginScreen';
+import Profile from './components/Profile';
+import Signup from './components/Signup';
+
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 
@@ -15,7 +20,7 @@ function App() {
           <Route path='/' element = {<LandingScreen/>}/>
           <Route path='/login' element={<LoginScreen/>}/>
           <Route path = '/account' element={<Profile/>}/>
-          <Route path = '/sign-up' element={<SignUp/>}/>
+          <Route path = '/sign-up' element={<Signup/>}/>
         </Routes>
       </BrowserRouter>
 
