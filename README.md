@@ -1,12 +1,50 @@
-# React + Vite
+# ReactJS Assignment – Account Registration & Login Flow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a pixel-perfect, mobile-first user interface built with **ReactJS**, **Vite**, and **Tailwind CSS**, based on the provided Adobe XD design. It includes screens for landing, signup, login, and profile with seamless navigation and responsive layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🎨 Design Reference
 
-## Expanding the ESLint configuration
+**Adobe XD Design:**  
+[🔗 Click to view](https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 🔗 Live Demo
+
+**Hosted Link:**  
+[https://your-live-host-link.netlify.app](https://your-live-host-link.netlify.app)
+
+---
+
+### 📂 GitHub Repository
+
+**Public Repo:**  
+[https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+
+---
+
+### 💻 Tech Stack
+
+- React JS (with Vite)
+- Tailwind CSS
+- React Router DOM
+- React Icons
+- Hosted on: Netlify / Vercel
+
+---
+
+### ✅ Features
+
+- Mobile app interface centered in the browser
+- Pixel-perfect design matching Adobe XD spec
+- Clean code with proper file structure and Tailwind utility classes
+- Navigation between pages using React Router
+- Form validation with toast notifications
+- No external CSS files used — all styling handled via Tailwind
+- `flex` + `gap` used instead of `margin`
+
+---
+
+
