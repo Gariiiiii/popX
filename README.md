@@ -15,7 +15,7 @@ This is a pixel-perfect, mobile-first user interface built with **ReactJS**, **V
 ### 📂 GitHub Repository
 
 **Public Repo:**  
-([https://github.com/yourusername/your-repo-name](https://github.com/Gariiiiii/popX))
+(https://github.com/Gariiiiii/popX)
 
 ### 💻 Tech Stack
 
