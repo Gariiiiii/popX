@@ -1,8 +1,8 @@
 
-import LandingScreen from '.././src/components/LandingScreen.jsx';
-import LoginScreen from '.././src/components/LoginScreen';
-import Profile from '.././src/components/Profile.jsx';
-import SignUp from '.././src/components/SignUp';
+// import LandingScreen from '.././src/components/LandingScreen.jsx';
+// import LoginScreen from '.././src/components/LoginScreen';
+// import Profile from '.././src/components/Profile.jsx';
+// import SignUp from '.././src/components/SignUp';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 
