@@ -33,7 +33,6 @@ This is a pixel-perfect, mobile-first user interface built with **ReactJS**, **V
 - Navigation between pages using React Router
 - Form validation with toast notifications
 - No external CSS files used — all styling handled via Tailwind
-- `flex` + `gap` used instead of `margin`
 
 
 
