@@ -2,28 +2,20 @@
 
 This is a pixel-perfect, mobile-first user interface built with **ReactJS**, **Vite**, and **Tailwind CSS**, based on the provided Adobe XD design. It includes screens for landing, signup, login, and profile with seamless navigation and responsive layout.
 
----
-
 ### 🎨 Design Reference
 
 **Adobe XD Design:**  
-[🔗 Click to view](https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd)
-
----
+(https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd)
 
 ### 🔗 Live Demo
 
 **Hosted Link:**  
-[https://your-live-host-link.netlify.app](https://your-live-host-link.netlify.app)
-
----
+(https://your-live-host-link.netlify.app)
 
 ### 📂 GitHub Repository
 
 **Public Repo:**  
-[https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
-
----
+([https://github.com/yourusername/your-repo-name](https://github.com/Gariiiiii/popX))
 
 ### 💻 Tech Stack
 
@@ -31,9 +23,7 @@ This is a pixel-perfect, mobile-first user interface built with **ReactJS**, **V
 - Tailwind CSS
 - React Router DOM
 - React Icons
-- Hosted on: Netlify / Vercel
-
----
+- Hosted on: Netlify 
 
 ### ✅ Features
 
@@ -45,6 +35,5 @@ This is a pixel-perfect, mobile-first user interface built with **ReactJS**, **V
 - No external CSS files used — all styling handled via Tailwind
 - `flex` + `gap` used instead of `margin`
 
----
 
 
