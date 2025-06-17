@@ -10,7 +10,7 @@ This is a pixel-perfect, mobile-first user interface built with **ReactJS**, **V
 ### 🔗 Live Demo
 
 **Hosted Link:**  
-(https://your-live-host-link.netlify.app)
+(https://authapp-popx.netlify.app/)
 
 ### 📂 GitHub Repository
 
